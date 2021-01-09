@@ -2,7 +2,7 @@ import './styles.css';
 import {ReactComponent as Logo} from './logo.svg';
 import { Link } from 'react-router-dom';
 
-function NavBar() {
+function Navbar() {
     return (
         <nav className="main-navbar">
             <Logo />
@@ -11,4 +11,4 @@ function NavBar() {
     )
 }
 
-export default NavBar;
+export default Navbar;
