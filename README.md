@@ -1,7 +1,7 @@
 # dsdeliver-sds2
 - Projeto desenvolvido durante a semana DevSuperior 2
 
-<img src="" width="800" height="400"></img>
+<img src="https://github.com/robertsilva4/dsdeliver-sds2/blob/main/deliver.png" width="800" height="400"></img>
 
 ## Tecnologias Utilizadas
 - ReactJS
