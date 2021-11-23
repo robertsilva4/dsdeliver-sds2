@@ -15,7 +15,7 @@
 - Heroku
 
 ## Utilização do código fonte
-- clone o repositório em sua máquina com o comando: git clone <code></code>
+- clone o repositório em sua máquina com o comando: git clone <code>https://github.com/robertsilva4/dsdeliver-sds2.git</code>
 - abra a pasta front-web em seu terminal
 - execute o comando: *yarn add* para instalar as dependencias
 - execute o comando: *yarn start* para executar o projeto
